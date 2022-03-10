@@ -13,7 +13,7 @@ This is a daily planner designed for employees with busy schedules to manage the
 ## Screenshot
 
 ## Link to the deployed app
-
+[link](https://wangheer2010.github.io/WorkDayScheduler/)
 
 
 
