@@ -11,7 +11,7 @@ This is a daily planner designed for employees with busy schedules to manage the
 1. Create and functionize the save button, enabling it to save the description of the plan in local storage
 
 ## Screenshot
-
+![screenshot](./Develop/screencapture-wangheer2010-github-io-WorkDayScheduler-2022-03-10-19_02_09.png)
 ## Link to the deployed app
 [link](https://wangheer2010.github.io/WorkDayScheduler/)
 
